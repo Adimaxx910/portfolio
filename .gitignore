@@ -1,0 +1,11 @@
+# Step 2 — Create .gitignore BEFORE anything else
+@"
+node_modules/
+.next/
+.env
+.env.local
+*.log
+.DS_Store
+out/
+dist/
+"@ | Out-File -FilePath .gitignore -Encoding UTF8

@@ -61,16 +61,16 @@ export default function About() {
               style={{ fontFamily: "'DM Sans', sans-serif" }}
             >
               <p>
-                I started my career curious about one thing: <em className="text-text-primary not-italic">why do businesses make bad decisions despite having data?</em> The answer was almost always the same — the data existed, but the insight didn't.
+                I started my career curious about one thing: <em className="text-text-primary not-italic">why do businesses make bad decisions despite having data?</em> The answer was almost always the same &mdash; the data existed, but the insight didn&apos;t.
               </p>
               <p>
-                That gap became my focus. At Magicbricks, I didn't just build dashboards — I built systems that made bad data impossible to miss and good insights impossible to ignore. I reduced manual reporting by 70% by automating workflows that were eating hours of human time weekly.
+                That gap became my focus. At Magicbricks, I didn&apos;t just build dashboards &mdash; I built systems that made bad data impossible to miss and good insights impossible to ignore. I reduced manual reporting by 70% by automating workflows that were eating hours of human time weekly.
               </p>
               <p>
-                My approach isn't just technical. I sit with stakeholders, understand the <em className="text-text-primary not-italic">business question first</em>, then engineer the data layer to answer it cleanly. Whether it's an ETL pipeline, a KPI framework, or a governance model — everything I build is accountable to a business outcome.
+                My approach isn&apos;t just technical. I sit with stakeholders, understand the <em className="text-text-primary not-italic">business question first</em>, then engineer the data layer to answer it cleanly. Whether it&apos;s an ETL pipeline, a KPI framework, or a governance model &mdash; everything I build is accountable to a business outcome.
               </p>
               <p>
-                Outside of work, I explore AI infrastructure — RAG systems, LLM pipelines, and prompt engineering. The intersection of data engineering and AI is where I'm building my next chapter.
+                Outside of work, I explore AI infrastructure &mdash; RAG systems, LLM pipelines, and prompt engineering. The intersection of data engineering and AI is where I&apos;m building my next chapter.
               </p>
             </div>
           </div>

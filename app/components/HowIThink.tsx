@@ -218,12 +218,11 @@ export default function HowIThink() {
 
         {/* Bottom callout */}
         <div className="mt-12 glass-card gradient-border rounded-2xl p-8 text-center">
-          <p
-            className="text-lg font-600 text-text-primary max-w-2xl mx-auto"
+          <p className="text-lg font-600 text-text-primary max-w-2xl mx-auto"
             style={{ fontFamily: "'Syne', sans-serif", fontWeight: 600 }}
           >
-            "I don't just report what happened.{' '}
-            <span className="brand-gradient-text">I explain why, and what to do about it."</span>
+            &ldquo;I don&apos;t just report what happened.{' '}
+            <span className="brand-gradient-text">I explain why, and what to do about it.&rdquo;</span>
           </p>
         </div>
       </div>
